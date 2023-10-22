@@ -27,7 +27,6 @@ Projetos em destaque: [App](https://nubank.com.br/)
 <br/>
 <br/>
 
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/put-here-your-username/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 <div align="justify-center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=taisprestes01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taisprestes01&layout=compact&langs_count=7&theme=dark"/>
