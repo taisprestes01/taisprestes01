@@ -32,11 +32,4 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/put-here-your-u
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=taisprestes01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taisprestes01&layout=compact&langs_count=7&theme=dark"/>
  </div>
- 
-<p align="left">
-  <a href="#" alt="LinkedIn">
-  <a href="www.linkedin.com/in/taisprestes01" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  <a href="#" alt="Discord">
-  <a href="https://discord.gg/Tp94St8j](https://discord.gg/PJskVrgNJK" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"     target="_blank"></a> 
-</p>
