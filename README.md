@@ -5,8 +5,8 @@ Here, you'll find a summary of the courses and subjects I've been studying recen
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/taisprestes01/taisprestes01/assets/108246691/93561648-9cf0-41fe-b0a4-a33478ddc6a1"/>](https://www.spacex.com/)
 
 **DATA SCIENCE** \
-[**Annotations**](https://www.spacex.com/](https://taisprestes01.notion.site/DATA-SCIENCE-a6d2da85974e48139d951cc3ff99cb27?pvs=4)) • Full-time \
-Linguagens & Tecnologias: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
+[**Annotations**](https://taisprestes01.notion.site/DATA-SCIENCE-a6d2da85974e48139d951cc3ff99cb27?pvs=4) • Notion \
+Linguagens & Tecnologias: `Python`, `Pandas`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
 Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
 <br/>
 
