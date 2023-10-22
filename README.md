@@ -1,11 +1,11 @@
-### Experiência de trabalho
+### Areas of Study
 
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+Here, you'll find a summary of the courses and subjects I've been studying recently:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/taisprestes01/taisprestes01/assets/108246691/93561648-9cf0-41fe-b0a4-a33478ddc6a1"/>](https://www.spacex.com/)
 
-**Software Engineer** \
-[**SpaceX**](https://www.spacex.com/) • Full-time \
+**DATA SCIENCE** \
+[**Annotations**](https://www.spacex.com/](https://taisprestes01.notion.site/DATA-SCIENCE-a6d2da85974e48139d951cc3ff99cb27?pvs=4)) • Full-time \
 Linguagens & Tecnologias: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
 Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
 <br/>
@@ -13,7 +13,7 @@ Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wik
 [<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
 
 **Frot-end Developer (Jr)** \
-[**Rocketseat**](https://rocketseat.com.br/) • Contract \
+[**Annotations**](https://rocketseat.com.br/) • Contract \
 Linguagens & Tecnologias: `JavaScript`, `Node`, `React`\
 Projetos em destaque: [Ignite](), [Bootcamp]()
 <br/>
@@ -21,7 +21,7 @@ Projetos em destaque: [Ignite](), [Bootcamp]()
 [<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
 
 **Software Engineer** \
-[**Nubank**](https://nubank.com.br/) • Contract \
+[**Annotations**](https://nubank.com.br/) • Contract \
 Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
 Projetos em destaque: [App](https://nubank.com.br/)
 <br/>
