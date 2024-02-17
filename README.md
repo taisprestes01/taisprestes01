@@ -4,3 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=35F724&random=false&width=435&lines=Follow+me)](https://git.io/typing-svg)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=taisprestes01&color=0E9C47&style=for-the-badge">
+
