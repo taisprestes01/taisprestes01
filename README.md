@@ -11,8 +11,15 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=taisprestes01&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
 
+## 🖥 &nbsp;Current project
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taisprestes01&repo=iq-option-data-analysis&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/taisprestes01/iq-option-data-analysis) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taisprestes01&repo=iq-option-data-analysis&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/taisprestes01/iq-option-data-analysis)
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=35F724&random=false&width=435&lines=Follow+me)](https://git.io/typing-svg)
 
 [![Linkedin Badge](https://img.shields.io/badge/-taisprestes01-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taisprestes01/)](https://www.linkedin.com/in/taisprestes01/)
 [![Youtube Badge](https://img.shields.io/badge/-taisprestes01-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/taisprestes01)](https://www.youtube.com/c/taisprestes01)
 [![Gmail Badge](https://img.shields.io/badge/-taisprestes01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:taisprestes01@gmail.com)](mailto:taisprestes01@gmail.com)
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
