@@ -14,7 +14,7 @@
 
 ## 🖥 &nbsp;Current project
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taisprestes01&repo=iq-option-data-analysis&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/taisprestes01/iq-option-data-analysis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taisprestes01&repo=Pocket-Option-API&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/taisprestes01/Pocket-Option-API)
 
 
 
