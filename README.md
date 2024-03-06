@@ -16,8 +16,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taisprestes01&repo=Product-Miner&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/taisprestes01/Product-Miner)
 
 
-
-
 [![Linkedin Badge](https://img.shields.io/badge/-taisprestes01-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taisprestes01/)](https://www.linkedin.com/in/taisprestes01/)
 [![Youtube Badge](https://img.shields.io/badge/-taisprestes01-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/taisprestes01)](https://www.youtube.com/c/taisprestes01)
 [![Gmail Badge](https://img.shields.io/badge/-taisprestes01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:taisprestes01@gmail.com)](mailto:taisprestes01@gmail.com)
