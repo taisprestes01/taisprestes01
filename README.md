@@ -2,7 +2,7 @@
     
 ![Blue And Red Futuristic Game YouTube Channel Art (3) (1)](https://github.com/taisprestes01/taisprestes01/assets/108246691/308be90a-a0c0-4e4b-802f-1536a756a7ef)
 
-
+ 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <p align="center">
