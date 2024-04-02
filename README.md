@@ -17,10 +17,10 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taisprestes01&repo=Pocket-Option-API&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/taisprestes01/Pocket-Option-API)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taisprestes01&repo=CryptoAlert&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/taisprestes01/CryptoAlert)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theshadow76&show_icons=true&locale=en&layout=compact" alt="theshadow76" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theshadow76&show_icons=true&locale=en" alt="theshadow76" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taisprestes01&show_icons=true&locale=en&layout=compact" alt="taisprestes01" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taisprestes01&show_icons=true&locale=en" alt="taisprestes01" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theshadow76&" alt="theshadow76" /></p
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taisprestes01&" alt="taisprestes01" /></p
 [![Linkedin Badge](https://img.shields.io/badge/-taisprestes01-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taisprestes01/)](https://www.linkedin.com/in/taisprestes01/)
 [![Youtube Badge](https://img.shields.io/badge/-taisprestes01-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/taisprestes01)](https://www.youtube.com/c/taisprestes01)
 [![Gmail Badge](https://img.shields.io/badge/-taisprestes01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:taisprestes01@gmail.com)](mailto:taisprestes01@gmail.com)
