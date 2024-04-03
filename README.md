@@ -15,7 +15,7 @@
 ## 🖥 &nbsp;Current project
 <div align="center">
     
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taisprestes01&repo=CryptoAlert&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/taisprestes01/CryptoAlert)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taisprestes01&repo=Coinfolio&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/taisprestes01/Coinfolio)
 
 </div>   
 
