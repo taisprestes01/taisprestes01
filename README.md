@@ -32,3 +32,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/-taisprestes01-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taisprestes01/)](https://www.linkedin.com/in/taisprestes01/)
 [![Youtube Badge](https://img.shields.io/badge/-taisprestes01-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/taisprestes01)](https://www.youtube.com/c/taisprestes01)
 [![Gmail Badge](https://img.shields.io/badge/-taisprestes01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:taisprestes01@gmail.com)](mailto:taisprestes01@gmail.com)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
