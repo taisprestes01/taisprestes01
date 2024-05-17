@@ -18,7 +18,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taisprestes01&repo=tradeogre-api&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/taisprestes01/tradeogre-api)
 </div>   
 
-
 <div align="center">
 <img  src="https://github-readme-stats.vercel.app/api?username=taisprestes01&show_icons=true&locale=en" alt="taisprestes01" width="400" height="160"/>
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=taisprestes01&" alt="taisprestes01" width="405" />
