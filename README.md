@@ -22,7 +22,9 @@
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=taisprestes01&" alt="taisprestes01" width="405" />
 </div>    
 <br>
-     
+
+
+[![Introdução a Indicadores](https://img.shields.io/badge/Notion-Introdução%20a%20Indicadores-brightgreen)](https://www.notion.so/Indicadores-27ba569046e84355a4038626006034a7)
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-taisprestes01-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taisprestes01/)](https://www.linkedin.com/in/taisprestes01/)
