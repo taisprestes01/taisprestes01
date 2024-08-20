@@ -24,7 +24,7 @@
 <br>
 
 ## 📚 Documentos 
-
+🇧🇷 Please note: This section is currently available only in Portuguese.
 ### 📈 Mercado Financeiro
 Aqui você encontrará materiais que criei para ensinar sobre o mercado financeiro:
 
@@ -36,9 +36,9 @@ Materiais para quem quer aprender sobre programação e desenvolvimento de softw
 [![Introdução a Testes Unitários](https://img.shields.io/badge/Notion-Introdução%20a%20Testes%20Unitários-blue)](https://fuschia-runner-0d2.notion.site/Coverlet-908123a329b3492caedf9d80406aee3b)
 
 
-## 📞 Contatos
+## 📞 Contacts
 
-Se você quiser entrar em contato comigo para discutir mercado financeiro, desenvolvimento, ou qualquer outro tema, sinta-se à vontade para me encontrar nas seguintes plataformas:
+If you want to get in touch with me to discuss financial markets, development, or any other topic, feel free to reach out to me on the following platforms:
 
 [![Linkedin Badge](https://img.shields.io/badge/-taisprestes01-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taisprestes01/)](https://www.linkedin.com/in/taisprestes01/)
 [![Youtube Badge](https://img.shields.io/badge/-taisprestes01-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/taisprestes01)](https://www.youtube.com/c/taisprestes01)
