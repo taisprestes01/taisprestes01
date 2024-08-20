@@ -36,7 +36,12 @@ Materiais para quem quer aprender sobre programação e desenvolvimento de softw
 [![Introdução a Testes Unitários](https://img.shields.io/badge/Notion-Introdução%20a%20Testes%20Unitários-blue)](https://fuschia-runner-0d2.notion.site/Coverlet-908123a329b3492caedf9d80406aee3b)
 
 
+## 📞 Contatos
+
+Se você quiser entrar em contato comigo para discutir mercado financeiro, desenvolvimento, ou qualquer outro tema, sinta-se à vontade para me encontrar nas seguintes plataformas:
+
 [![Linkedin Badge](https://img.shields.io/badge/-taisprestes01-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taisprestes01/)](https://www.linkedin.com/in/taisprestes01/)
 [![Youtube Badge](https://img.shields.io/badge/-taisprestes01-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/taisprestes01)](https://www.youtube.com/c/taisprestes01)
 [![Gmail Badge](https://img.shields.io/badge/-taisprestes01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:taisprestes01@gmail.com)](mailto:taisprestes01@gmail.com)
+[![Discord ](https://img.shields.io/badge/Discord-blue)](https://discord.com/users/348891463330824202)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAFF,100:5bcffff&height=120&section=footer"/>
