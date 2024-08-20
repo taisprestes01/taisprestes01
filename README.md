@@ -23,8 +23,17 @@
 </div>    
 <br>
 
+## 📚 Documentos 
+
+### 📈 Mercado Financeiro
+Aqui você encontrará materiais que criei para ensinar sobre o mercado financeiro:
 
 [![Introdução a Indicadores](https://img.shields.io/badge/Notion-Introdução%20a%20Indicadores-brightgreen)](https://www.notion.so/Indicadores-27ba569046e84355a4038626006034a7)
+
+### 💻 Desenvolvimento
+Materiais para quem quer aprender sobre programação e desenvolvimento de software:
+
+[![Introdução a Testes Unitários](https://img.shields.io/badge/Notion-Introdução%20a%20Testes%20Unitários-blue)](https://fuschia-runner-0d2.notion.site/Coverlet-908123a329b3492caedf9d80406aee3b)
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-taisprestes01-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taisprestes01/)](https://www.linkedin.com/in/taisprestes01/)
