@@ -8,8 +8,6 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=taisprestes01&color=0E9C47&style=for-the-badge">
 </div>
-    
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=taisprestes01&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
 
 ## 🖥 &nbsp;Current project
 <div align="center">
