@@ -26,7 +26,7 @@
 ### 📈 Mercado Financeiro
 Aqui você encontrará materiais que criei para ensinar sobre o mercado financeiro:
 
-[![Introdução a Indicadores](https://img.shields.io/badge/Notion-Introdução%20a%20Indicadores-brightgreen)](https://www.notion.so/Indicadores-27ba569046e84355a4038626006034a7)
+[![Introdução a Indicadores](https://img.shields.io/badge/Notion-Introdução%20a%20Indicadores-brightgreen)](https://fuschia-runner-0d2.notion.site/27ba569046e84355a4038626006034a7?pvs=73)
 
 ### 💻 Desenvolvimento
 Materiais para quem quer aprender sobre programação e desenvolvimento de software:
