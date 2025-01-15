@@ -35,7 +35,8 @@ Materiais para quem quer aprender sobre programação e desenvolvimento de softw
 [![Introdução a Testes Unitários](https://img.shields.io/badge/Notion-Introdução%20a%20Testes%20Unitários-blue)](https://fuschia-runner-0d2.notion.site/Coverlet-908123a329b3492caedf9d80406aee3b)
 
 ### LeetCode
-<img src="https://leetcode-badge-showcase.vercel.app/api?username={taisprestes01}&theme={black}" alt="LeetCode Badges"/>
+
+<img src="https://leetcode-badge-showcase.vercel.app/api?username={taisprestes01}" alt="LeetCode Badges"/>
 
 ## 📞 Contacts
 
