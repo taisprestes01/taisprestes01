@@ -3,7 +3,6 @@
 ![Blue And Red Futuristic Game YouTube Channel Art (3) (1)](https://github.com/taisprestes01/taisprestes01/assets/108246691/308be90a-a0c0-4e4b-802f-1536a756a7ef)
 
 <div align="center">
- <img src="https://github.com/taisprestes01/taisprestes01/assets/108246691/dc09cbfb-f00c-4cc4-be58-cd74eb53a742" width="150">   
 </div>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=taisprestes01&color=0E9C47&style=for-the-badge">
@@ -18,7 +17,7 @@
 
 <div align="center">
 <img  src="https://github-readme-stats.vercel.app/api?username=taisprestes01&show_icons=true&locale=en" alt="taisprestes01" width="400" height="160"/>
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=taisprestes01&" alt="taisprestes01" width="405" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=taisprestes01" alt="taisprestes01" width="405" />
 </div>    
 <br>
 
