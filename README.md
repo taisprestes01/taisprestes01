@@ -39,9 +39,3 @@ Materiais para quem quer aprender sobre programação e desenvolvimento de softw
 
 <img src="https://leetcode-badge-showcase.vercel.app/api?username={taisprestes01}" alt="LeetCode Badges"/>
 
-## 📞 Contacts
-
-If you want to get in touch with me to discuss financial markets, development, or any other topic, feel free to reach out to me on the following platforms:
-
-[![Linkedin Badge](https://img.shields.io/badge/-taisprestes01-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taisprestes01/)](https://www.linkedin.com/in/taisprestes01/)
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAFF,100:5bcffff&height=120&section=footer"/>
